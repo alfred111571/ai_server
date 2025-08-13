@@ -1,3 +1,1 @@
-# ai_server
-
-smart-lighting-threat-detection
+# ai_server - smart-lighting-threat-detection
