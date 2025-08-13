@@ -1,3 +1,3 @@
-web: gunicorn ai_server:app
+web: gunicorn ai_server1:app
 
 
